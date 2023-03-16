@@ -1,8 +1,8 @@
-👉️# [ MD OF JS ]
+ 👉️# [ MD OF JS ]
 ---
 [3-html-tags-in-javascript](./md/3-html-tags-in.md)
 ---
-[4-html-tegs-in-javascript](./md/4-comment-tegs.md)
+<!---[4-html-tegs-in-javascript](./md/4-comment-tegs.md)
 ---
 [5-html-tegs-in-javscript](./md/5-variables.md)
 ---
@@ -40,5 +40,4 @@
 ---
 [22-function-with-paramiters-in-javascript](./md/22-function-with-paramiter.md)
 ---
-[23-function-with-](./md/23-function-with-Return-value.md)
----
+[23-function-with-](./md/23-function-with-Ret -->
