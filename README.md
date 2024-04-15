@@ -4,7 +4,6 @@
 ---
 <!---[4-html-tegs-in-javascript](./md/4-comment-tegs.md)
 ---
-
 [5-html-tegs-in-javscript](./md/5-variables.md)
 ---
 [6-variable-teds-in-javascript](./md/6-variable-tegs-in-js.md)
